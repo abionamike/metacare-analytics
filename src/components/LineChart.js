@@ -61,7 +61,7 @@ const LineChart = ({ lineColor }) => {
           color: '#696D8C',
           padding: 20,
           font: {
-            family: 'Gelion',
+            family: "'Gelion'",
             size: 14,
             weight: '400',
             lineHeight: '22px',
@@ -79,7 +79,7 @@ const LineChart = ({ lineColor }) => {
           color: '#696D8C',
           padding: 14,
           font: {
-            family: 'Gelion',
+            family: "'Gelion'",
             size: 14,
             weight: '400',
             lineHeight: '22px'
