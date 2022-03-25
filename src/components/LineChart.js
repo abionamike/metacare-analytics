@@ -91,7 +91,7 @@ const LineChart = ({ lineColor }) => {
 
   return (
     <Line 
-      height={"83%"}
+      height={"89%"}
       options={options} 
       data={{ labels, datasets }} 
     />
